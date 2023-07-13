@@ -123,8 +123,6 @@ exports.loginController = async (req, res) => {
 
 //---------------------------------------------------------------------------------------------------------------------
 
-
-
 //get all user
 exports.getAlluser = async (req, res) => {
     try {
